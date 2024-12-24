@@ -2,7 +2,6 @@
 - 👀 I’m interested in Smart Buildings
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on this journey.
-- ⚡ Fun fact: ................................................
 
 <!---
 Sava5133/Sava5133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
